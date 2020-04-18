@@ -1,4 +1,4 @@
-
+scikit-image>=0.16.2
 Cython>=0.29.13
 wheel
 scikit-learn
